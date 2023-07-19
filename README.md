@@ -4,8 +4,9 @@
 Digital Clock é um projeto simples de relógio digital desenvolvido em HTML, CSS e JavaScript. O objetivo é fornecer um relógio interativo que exiba a hora atual e seja atualizado em tempo real.
 
 ## Demonstração
+
 <div>
-  <img align="center" alt="Sue-clock src="https://cdn.discordapp.com/attachments/856361599312592936/1131306136134484129/ezgif.com-video-to-gif_1.gif">
+  <img align="center" src="https://cdn.discordapp.com/attachments/856361599312592936/1131306136134484129/ezgif.com-video-to-gif_1.gif">
 </div>
 
 ## Funcionalidades
